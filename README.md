@@ -17,3 +17,5 @@ I've created this lab using Elastic Stack and a Kali Linux VM to:
 - Simulate security events with tools like Nmap
 - Analyze and visualize data in Elastic SIEM
 - Set up alerts for specific events
+
+<img width="958" alt="image" src="https://github.com/ayu401/Elastic-SIEM-Lab/assets/77326096/7277fb90-cbaa-43ae-be09-15d90086b433">
