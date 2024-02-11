@@ -18,4 +18,11 @@ I've created this lab using Elastic Stack and a Kali Linux VM to:
 - Analyze and visualize data in Elastic SIEM
 - Set up alerts for specific events
 
+## **Conclusion**
+
+- Successfully set up and configured Elastic Stack SIEM in a home lab environment. Deployed a Kali Linux VM, configuring Elastic Agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
+- Generated and analyzed security events using Nmap on Kali Linux. Queryied Elastic SIEM to identify and investigate security incidents.
+- Developed a custom dashboard in Elastic SIEM to visualize security events, did data interpretation and pattern recognition. Created and tested alert rules for detecting specific security events.
+
+
 <img width="958" alt="image" src="https://github.com/ayu401/Elastic-SIEM-Lab/assets/77326096/7277fb90-cbaa-43ae-be09-15d90086b433">
